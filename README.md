@@ -1,4 +1,6 @@
-## Eai! Eu sou o Geraldo Junior
+<h1 align="center">
+Olá! Eu sou o Geraldo Junior
+</h1>
 
 <!-- MAIN SECTION - COMMITS AND OTHERS !-->
 
@@ -18,6 +20,8 @@
   <img align="center" alt="Gj-PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
   <img align="center" alt="Gj-SQL" color="white" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
   
-<!-- MY PROFILE PICTURE AS A CARTOON !-->  
-  <img align="right" alt="Gj-pic" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/941077393697800203/977983459261825064/geraldo-junior.png?">
+  ##
+<!-- MY PROFILE PICTURE AS A CARTOON !--> 
+  
+  <a href="https://linkedin.com/in/geraldo-junior03/" target="_blank"><img align="right" alt="Gj-pic" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/941077393697800203/977983459261825064/geraldo-junior.png?"><a>
 </div>
