@@ -1,5 +1,5 @@
 <h1 align="center">
-Olá! Eu sou o Geraldo Junior
+Olá! Eu sou o Geraldo Junior <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
 <!-- MAIN SECTION - COMMITS AND OTHERS !-->
@@ -37,3 +37,12 @@ Olá! Eu sou o Geraldo Junior
   * Programar em grupo
   * Conhecer novos lugares
   
+##
+  <!-- MY PROJECTS - LNIK IN GITHUB !-->
+### Projetos
+  
+  Alguns dos meus projetos que eu fiz com o intuito de treinar minhas habilidades de programação em <b>HTML, CSS e JS! </b><br><br>
+  
+  * 📚 Portifolio: <a href="">Clique aqui</a><br>
+  
+  * 📕 Site de emojis: <a href="">Clique aqui</a><br>
