@@ -43,8 +43,8 @@ Olá! Eu sou o Geraldo Junior <img src="https://media.giphy.com/media/hvRJCLFzca
   
   Alguns dos meus projetos que eu fiz com o intuito de treinar minhas habilidades de programação em <b>HTML, CSS e JS! </b><br><br>
   
-  * 📚 Portifolio: <a href="">Clique aqui</a><br>
+  * 📚 Portfólio: <a href="https://geraldojunior03.github.io/portfolio/">Clique aqui</a><br>
   
-  * 📕 Site de emojis: <a href="">Clique aqui</a><br>
+  * 📕 Site de emojis: <a>Em desenvolvimento</a><br>
 
   ![Snake animation](https://github.com/geraldojunior03/geraldojunior03/blob/output/github-contribution-grid-snake.svg)
