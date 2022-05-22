@@ -30,7 +30,7 @@ Olá! Eu sou o Geraldo Junior
   > Informações
   * Nome: Geraldo Junior
   * Idade: 18 anos
-  * Email: <a href="mailto: geraldojunior.2003@outlook.com">geraldojunior.2003@outlook.com</a>
+  * Email: <a href="mailto:geraldojunior.2003@outlook.com">geraldojunior.2003@outlook.com</a>
 
   > Hobbies
   * Aprender coisas novas
