@@ -6,7 +6,7 @@ Olá! Eu sou o Geraldo Junior <img src="https://media.giphy.com/media/hvRJCLFzca
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geraldojunior03&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geraldojunior03&layout=compact&langs_count=7&theme=dark"/>
+  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geraldojunior03&layout=compact&langs_count=7&theme=dark"/>!-->
 </div>
   
 <!-- MAIN PROGRAMMING SKILLS - TECH AND OTHERS !-->        
@@ -23,7 +23,7 @@ Olá! Eu sou o Geraldo Junior <img src="https://media.giphy.com/media/hvRJCLFzca
   ##
 <!-- MY PROFILE PICTURE AS A CARTOON !--> 
 ### Sobre mim
-  <a href="https://linkedin.com/in/geraldo-junior03/"><img align="right" alt="Gj-pic" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/941077393697800203/977983459261825064/geraldo-junior.png?"><a>
+  <a target="_blank" href="https://linkedin.com/in/geraldo-junior03/"><img align="right" alt="Gj-pic" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/941077393697800203/977983459261825064/geraldo-junior.png?"><a>
   <p>Olá, me chamo Geraldo Junior, tenho 18 anos e estou no ramo da programação há 7 anos, <br> sendo 5 destes anos, desenvolvendo modificações para jogos.</p>
   Abaixo estão algumas informações/hobbies sobre mim!<br><br>
   
