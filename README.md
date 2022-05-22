@@ -23,5 +23,5 @@ Olá! Eu sou o Geraldo Junior
   ##
 <!-- MY PROFILE PICTURE AS A CARTOON !--> 
   
-  <a href="https://linkedin.com/in/geraldo-junior03/" target="_blank"><img align="right" alt="Gj-pic" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/941077393697800203/977983459261825064/geraldo-junior.png?"><a>
+  <a target="_blank" href="https://linkedin.com/in/geraldo-junior03/"><img align="right" alt="Gj-pic" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/941077393697800203/977983459261825064/geraldo-junior.png?"><a>
 </div>
