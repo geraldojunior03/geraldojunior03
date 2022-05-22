@@ -47,4 +47,4 @@ Olá! Eu sou o Geraldo Junior <img src="https://media.giphy.com/media/hvRJCLFzca
   
   * 📕 Site de emojis: <a href="">Clique aqui</a><br>
 
- ![Snake animation]https://github.com/geraldojunior03/geraldojunior03/blob/output/github-contribution-grid-snake.svg
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
