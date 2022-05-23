@@ -43,7 +43,7 @@ Olá! Eu sou o Geraldo Junior <img src="https://media.giphy.com/media/hvRJCLFzca
   <!-- MY PROJECTS - LNIK IN GITHUB !-->
 ### Projetos
   
-  Alguns dos meus projetos que eu fiz com o intuito de treinar minhas habilidades de programação em <b>HTML, CSS e JS! </b><br><br>
+  Alguns dos meus projetos que eu fiz com o intuito de treinar minhas habilidades em <b>HTML, CSS e JS! </b><br><br>
   
   * 📚 Portfólio: <a href="https://geraldojunior03.github.io/portfolio/">Clique aqui</a><br>
   
