@@ -4,13 +4,13 @@ Olá! Eu sou o Geraldo Junior <img src="https://media.giphy.com/media/hvRJCLFzca
 
 <!-- MAIN SECTION - COMMITS AND OTHERS !-->
 
-<div align="center">
-  <img width="400" src="https://media2.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif?cid=790b76116bfbcc7bbf86f566e5fbc74316bb2672b3c81491&rid=giphy.gif&ct=s">
-</div>
+  
+
   
 <!-- MAIN PROGRAMMING SKILLS - TECH AND OTHERS !-->        
   
 <div align="center" style="display: inline_block;"><br>
+  <img width="400" src="https://media2.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif?cid=790b76116bfbcc7bbf86f566e5fbc74316bb2672b3c81491&rid=giphy.gif&ct=s">
   <h3>Conhecimentos</h3>
   <hr width="200">
   <a href="https://geraldojunior03.github.io/portfolio/#knowledges">
@@ -22,6 +22,7 @@ Olá! Eu sou o Geraldo Junior <img src="https://media.giphy.com/media/hvRJCLFzca
   <img align="center" alt="Gj-SQL" color="white" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
   </a>
 </div>
+
   
   ##
 <!-- MY PROFILE PICTURE AS A CARTOON !--> 
