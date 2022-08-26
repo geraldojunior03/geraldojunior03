@@ -5,13 +5,14 @@ Olá! Eu sou o Geraldo Junior <img src="https://media.giphy.com/media/hvRJCLFzca
 <!-- MAIN SECTION - COMMITS AND OTHERS !-->
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geraldojunior03&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geraldojunior03&layout=compact&langs_count=7&theme=dark"/>!-->
+  <img width="400" src="https://media2.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif?cid=790b76116bfbcc7bbf86f566e5fbc74316bb2672b3c81491&rid=giphy.gif&ct=s">
 </div>
   
 <!-- MAIN PROGRAMMING SKILLS - TECH AND OTHERS !-->        
   
 <div align="center" style="display: inline_block;"><br>
+  <h3>Conhecimentos</h3>
+  <hr width="200">
   <a href="https://geraldojunior03.github.io/portfolio/#knowledges">
   <img align="center" alt="Gj-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Gj-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -24,7 +25,7 @@ Olá! Eu sou o Geraldo Junior <img src="https://media.giphy.com/media/hvRJCLFzca
   
   ##
 <!-- MY PROFILE PICTURE AS A CARTOON !--> 
-### Sobre mim
+### Sobre mim  
   <a href="https://linkedin.com/in/geraldo-junior03/"><img align="right" alt="Gj-pic" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/941077393697800203/977983459261825064/geraldo-junior.png?"><a>
   <p>Olá, me chamo Geraldo Junior, tenho 18 anos e estou no ramo da programação há 7 anos, <br> sendo 5 destes anos, desenvolvendo modificações para jogos.</p>
   Abaixo estão algumas informações/hobbies sobre mim!<br><br>
@@ -33,11 +34,6 @@ Olá! Eu sou o Geraldo Junior <img src="https://media.giphy.com/media/hvRJCLFzca
   * Nome: Geraldo Junior
   * Idade: 18 anos
   * Email: <a href="mailto:geraldojunior.2003@outlook.com">geraldojunior.2003@outlook.com</a>
-
-  > Hobbies
-  * Aprender coisas novas
-  * Programar em grupo
-  * Conhecer novos lugares
   
 ##
   <!-- MY PROJECTS - LNIK IN GITHUB !-->
@@ -47,6 +43,6 @@ Olá! Eu sou o Geraldo Junior <img src="https://media.giphy.com/media/hvRJCLFzca
   
   * 📚 Portfólio: <a href="https://geraldojunior03.github.io/portfolio/">Clique aqui</a><br>
   
-  <!--  * 📕 Site de emojis: <a>Em desenvolvimento</a><br> !-->
+  <!--  * 📕 Site desenvolvido em <b>JS</b>: <a href="https://geraldojunior03.github.io/projeto_sitejs/">Clique Aqui</a><br> !-->
 
   ![Snake animation](https://github.com/geraldojunior03/geraldojunior03/blob/output/github-contribution-grid-snake.svg)
