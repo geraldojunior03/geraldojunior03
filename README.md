@@ -44,6 +44,8 @@ Olá! Eu sou o Geraldo Junior <img src="https://media.giphy.com/media/hvRJCLFzca
   
   * 📚 Portfólio: <a href="https://geraldojunior03.github.io/portfolio/">Clique aqui</a><br>
   
-  * 📕 Site desenvolvido em <b>JS</b>: <a href="https://geraldojunior03.github.io/projeto_sitejs/">Clique Aqui</a><br>
+  * 📊 Finans: <a href="https://geraldojunior03.github.io/finans/">Clique Aqui</a><br>
+  
+  * 📋 DevForm: <a href="https://geraldojunior03.github.io/devform/">Clique Aqui</a><br>
 
   ![Snake animation](https://github.com/geraldojunior03/geraldojunior03/blob/output/github-contribution-grid-snake.svg)
