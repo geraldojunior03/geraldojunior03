@@ -1,49 +1,53 @@
-<h1 align="center">
-Olá! Eu sou o Geraldo Junior <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h1>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<!-- MAIN SECTION - COMMITS AND OTHERS !-->
+<h1>Seja bem-vindo ao meu GitHub <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+<p align="left">Olá, me chamo Geraldo Junior e estou no ramo da programação há 7 anos, <br> sendo 5 destes anos, desenvolvendo modificações para jogos.
+<br><br>Atualmente, estou trabalhando no ramo da Qualidade, sendo estágiario de QA. Onde já tive contato com grandes empresas, sendo uma delas a Natura.</p>
 
-  
+<hr width="30%">
 
-  
-<!-- MAIN PROGRAMMING SKILLS - TECH AND OTHERS !-->        
-  
-<div align="center" style="display: inline_block;"><br>
-  <img width="400" src="https://media2.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif?cid=790b76116bfbcc7bbf86f566e5fbc74316bb2672b3c81491&rid=giphy.gif&ct=s">
-  <h3>Conhecimentos</h3>
-  <hr width="200">
-  <a href="https://geraldojunior03.github.io/portfolio/#knowledges">
-  <img align="center" alt="Gj-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="Gj-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gj-JS" color="white" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Gj-SQL" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
-  <img align="center" alt="Gj-JIRA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-plain.svg"> 
-  </a>
-</div>
+### Experiência de trabalho
+Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-  
-  ##
-<!-- MY PROFILE PICTURE AS A CARTOON !--> 
-### Sobre mim  
-  <a href="https://linkedin.com/in/geraldo-junior03/"><img align="right" alt="Gj-pic" height="200" src="https://cdn.discordapp.com/attachments/941077393697800203/977983459261825064/geraldo-junior.png?"><a>
-  <p>Olá, me chamo Geraldo Junior e estou no ramo da programação há 7 anos, <br> sendo 5 destes anos, desenvolvendo modificações para jogos.</p>
-  Abaixo estão algumas informações sobre mim!<br><br>
-  
-  > Informações
-  * Nome: Geraldo Junior
-  * Idade: 18 anos
-  * Email: <a href="mailto:geraldojunior.2003@outlook.com">geraldojunior.2003@outlook.com</a>
-  
-##
-  <!-- MY PROJECTS - LNIK IN GITHUB !-->
-### Projetos
-  
-  Alguns dos meus projetos que eu fiz com o intuito de treinar minhas habilidades em <b>HTML, CSS e JS! </b><br><br>
-  
-  * 📚 Portfólio: <a href="https://geraldojunior03.github.io/portfolio/">Clique aqui</a><br>
-  
-  * 📊 Finans: <a href="https://geraldojunior03.github.io/finans/" target="_blank">Clique Aqui</a><br>  
-  * 📋 DevForm: <a href="https://geraldojunior03.github.io/devform/" target="_blank">Clique Aqui</a><br>
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
+
+**Estágiario QA** \
+[**SVLabs - The System Validation Company**](https://www.spacex.com/) • Half-time \
+Linguagens & Tecnologias: `Java`, `Selenium`, `Cypress`, `Gherkin`, `BDD`, `Unit Test`,\
+Projetos em destaque: [Natura](https://www.natura.com.br/), [BandPlay](https://bandplay.com/home)
+<br/>
+<br/>
+
+Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/put-here-your-username/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+
+
+## **Linguagens e Ferramentas:**  
+
+<p align="center">
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" /></code>
+</p>
+
+<br>
+
+## :earth_americas: **Redes Sociais**
+
+<p align="left">
+
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geraldo-junior03/" /></a>
+
+  <a href="#" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
+
+</p>  
+          
+
 
   ![Snake animation](https://github.com/geraldojunior03/geraldojunior03/blob/output/github-contribution-grid-snake.svg)
