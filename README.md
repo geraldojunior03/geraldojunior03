@@ -9,7 +9,7 @@
 ### Experiência de trabalho
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://cdn.discordapp.com/attachments/1062514303590215692/1063432440208695306/download-removebg-preview_1.png"/>](https://svlabs.com.br/)
+[<img align="left" height="94px" width="94px" alt="SVLabs" src="https://cdn.discordapp.com/attachments/1062514303590215692/1063432440208695306/download-removebg-preview_1.png"/>](https://svlabs.com.br/)
 
 **Estágiario QA** \
 [**SVLabs - The System Validation Company**](https://svlabs.com.br/) • Half-time \
@@ -38,10 +38,10 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/put-here-your-u
 
 <p align="left">
 
-  <a href="#" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/geraldo-junior03/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geraldo-junior03/" /></a>
 
-  <a href="#" alt="WhatsApp">
+  <a href="https://wa.link/0cne1e" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 
 </p>  
