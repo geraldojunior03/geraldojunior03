@@ -9,10 +9,10 @@
 ### Experiência de trabalho
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://cdn.discordapp.com/attachments/1062514303590215692/1063432440208695306/download-removebg-preview_1.png"/>](https://svlabs.com.br/)
 
 **Estágiario QA** \
-[**SVLabs - The System Validation Company**](https://www.spacex.com/) • Half-time \
+[**SVLabs - The System Validation Company**](https://svlabs.com.br/) • Half-time \
 Linguagens & Tecnologias: `Java`, `Selenium`, `Cypress`, `Gherkin`, `BDD`, `Unit Test`,\
 Projetos em destaque: [Natura](https://www.natura.com.br/), [BandPlay](https://bandplay.com/home)
 <br/>
