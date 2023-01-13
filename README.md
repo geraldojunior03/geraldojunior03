@@ -20,7 +20,6 @@ Projetos em destaque: [Natura](https://www.natura.com.br/), [BandPlay](https://b
 
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/put-here-your-username/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 
-
 ## **Linguagens e Ferramentas:**  
 
 <p align="center">
@@ -34,7 +33,6 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/put-here-your-u
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" /></code>
 </p>
 
-<br>
 
 ## :earth_americas: **Redes Sociais**
 
