@@ -9,7 +9,7 @@
 ### Experiência de trabalho
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="SVLabs" src="https://cdn.discordapp.com/attachments/1062514303590215692/1063432440208695306/download-removebg-preview_1.png"/>](https://svlabs.com.br/)
+[<img align="left" height="94px" width="94px" alt="SVLabs" src="https://cdn.discordapp.com/attachments/1069757916644642816/1072175655619399770/download-removebg-preview.png"/>](https://svlabs.com.br/)
 
 **Estágiario QA** \
 [**SVLabs - The System Validation Company**](https://svlabs.com.br/) • Half-time \
