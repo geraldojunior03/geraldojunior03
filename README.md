@@ -2,7 +2,7 @@
 
 <h1>Seja bem-vindo ao meu GitHub <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 <p align="left">Olá, me chamo Geraldo Junior e estou no ramo da programação há 7 anos, <br> sendo 5 destes anos, desenvolvendo modificações para jogos.
-<br><br>Atualmente, estou trabalhando no ramo da Qualidade, sendo estágiario de QA. Onde já tive contato com grandes empresas, sendo uma delas a Natura.</p>
+<br><br>Atualmente, estou trabalhando no ramo da Qualidade, sendo QA Tester. Onde já tive contato com grandes empresas, sendo uma delas a Alelo.</p>
 
 <hr width="30%">
 
@@ -11,7 +11,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 [<img align="left" height="94px" width="94px" alt="SVLabs" src="https://cdn.discordapp.com/attachments/1069757916644642816/1072175655619399770/download-removebg-preview.png"/>](https://svlabs.com.br/)
 
-**Estágiario QA** \
+**QA Tester** \
 [**SVLabs - The System Validation Company**](https://svlabs.com.br/) • Half-time \
 Linguagens & Tecnologias: `Java`, `Selenium`, `Cypress`, `Gherkin`, `BDD`, `Unit Test`,\
 Projetos em destaque: [Natura](https://www.natura.com.br/), [BandPlay](https://bandplay.com/home)
@@ -28,9 +28,11 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/put-here-your-u
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" /></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"/></code>
+
 </p>
 
 
