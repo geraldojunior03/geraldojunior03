@@ -11,7 +11,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 [<img align="left" height="94px" width="94px" alt="SVLabs" src="https://cdn.discordapp.com/attachments/1069757916644642816/1072175655619399770/download-removebg-preview.png"/>](https://svlabs.com.br/)
 
-**QA Junior** \
+**Analista QA Junior** \
 [**SVLabs - The System Validation Company**](https://svlabs.com.br/) • Half-time \
 Linguagens & Tecnologias: `Java`, `Selenium`, `Cypress`, `Gherkin`, `BDD`, `Unit Test`,\
 Projetos em destaque: [Natura](https://www.natura.com.br/), [BandPlay](https://bandplay.com/home)
