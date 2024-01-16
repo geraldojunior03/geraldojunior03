@@ -12,9 +12,9 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [<img align="left" height="94px" width="94px" alt="SVLabs" src="https://cdn.discordapp.com/attachments/1069757916644642816/1072175655619399770/download-removebg-preview.png"/>](https://svlabs.com.br/)
 
 **Analista QA Junior** \
-[**SVLabs - The System Validation Company**](https://svlabs.com.br/) • Half-time \
+[**SVLabs - The System Validation Company**](https://svlabs.com.br/) • Full-time \
 Linguagens & Tecnologias: `Java`, `Selenium`, `Cypress`, `Gherkin`, `BDD`, `Unit Test`,\
-Projetos em destaque: [Natura](https://www.natura.com.br/), [BandPlay](https://bandplay.com/home)
+Projetos em destaque: [Alelo](https://www.alelo.com.br/), [BandPlay](https://bandplay.com/home)
 <br/>
 <br/>
 
@@ -46,8 +46,4 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/put-here-your-u
   <a href="https://wa.link/0cne1e" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 
-</p>  
-          
-
-
-  ![Snake animation](https://github.com/geraldojunior03/geraldojunior03/blob/output/github-contribution-grid-snake.svg)
+</p>
