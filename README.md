@@ -18,7 +18,7 @@ Projetos em destaque: [Alelo](https://www.alelo.com.br/), [BandPlay](https://ban
 <br/>
 <br/>
 
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/put-here-your-username/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/geraldo-junior03/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 
 ## **Linguagens e Ferramentas:**  
 
