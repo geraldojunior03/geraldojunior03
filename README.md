@@ -1,49 +1,92 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador">
 
-<h1>Seja bem-vindo ao meu GitHub <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
-<p align="left">Olá, me chamo Geraldo Junior e estou no ramo da programação há 7 anos, <br> sendo 5 destes anos, desenvolvendo modificações para jogos.
-<br><br>Atualmente, estou trabalhando no ramo da Qualidade, sendo QA Tester. Onde já tive contato com grandes empresas, sendo uma delas a Alelo.</p>
+# Olá, eu sou Geraldo Junior 👋
 
-<hr width="30%">
+💻 QA Analyst | Test Automation Engineer  
+🚀 7+ anos na área de tecnologia  
+🎮 5 anos desenvolvendo modificações para jogos  
+🧪 Especializado em Qualidade de Software e Automação de Testes  
 
-### Experiência de trabalho
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+Atualmente atuando como **QA Analyst**, com experiência em automação de testes, validação de sistemas e garantia de qualidade em aplicações web.
 
-[<img align="left" height="94px" width="94px" alt="SVLabs" src="https://cdn.discordapp.com/attachments/1069757916644642816/1072175655619399770/download-removebg-preview.png"/>](https://svlabs.com.br/)
+📍 São Paulo - Brasil
 
-**Analista QA Junior** \
-[**SVLabs - The System Validation Company**](https://svlabs.com.br/) • Full-time \
-Linguagens & Tecnologias: `Java`, `Selenium`, `Cypress`, `Gherkin`, `BDD`, `Unit Test`,\
-Projetos em destaque: [Alelo](https://www.alelo.com.br/), [BandPlay](https://bandplay.com/home)
-<br/>
-<br/>
+---
 
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/geraldo-junior03/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+## 🚀 Sobre mim
 
-## **Linguagens e Ferramentas:**  
+- 🔍 Experiência com testes funcionais, regressivos e automação
+- 🤖 Automação utilizando Selenium e Cypress
+- 📝 Construção de cenários BDD com Gherkin
+- ☕ Desenvolvimento de testes utilizando Java
+- 🔄 Versionamento utilizando Git
+- 📈 Foco em qualidade, confiabilidade e melhoria contínua
 
-<p align="center">
+Atualmente iniciando um novo desafio profissional na **Capgemini**, expandindo conhecimentos e evoluindo continuamente na área de tecnologia.
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"/></code>
+---
 
-</p>
+## 💼 Experiência Profissional
 
+### QA Analyst
+**Capgemini** • Full-time  
+📅 2026 - Atualmente
 
-## :earth_americas: **Redes Sociais**
+_Iniciando nova jornada profissional._
 
-<p align="left">
+---
 
-  <a href="https://www.linkedin.com/in/geraldo-junior03/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geraldo-junior03/" /></a>
+### Analista QA Junior
+**SVLabs - The System Validation Company** • Full-time
 
-  <a href="https://wa.link/0cne1e" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
+**Tecnologias utilizadas**
 
-</p>
+`Java`
+`Selenium`
+`Cypress`
+`BDD`
+`Gherkin`
+`JUnit`
+`Git`
+
+### Projetos relevantes
+
+🏢 Alelo  
+📺 BandPlay
+
+---
+
+## 🛠 Tecnologias e Ferramentas
+
+### Test Automation
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+
+### QA & Versionamento
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![BDD](https://img.shields.io/badge/BDD-FF6F00?style=for-the-badge)
+
+### Desenvolvimento
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+---
+
+## 📫 Contato
+
+💼 LinkedIn  
+https://www.linkedin.com/in/geraldo-junior03/
+
+📱 WhatsApp  
+https://wa.link/0cne1e
+
+---
+
+⭐ Sempre buscando evolução técnica, automação eficiente e entrega de qualidade.
